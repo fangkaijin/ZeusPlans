@@ -9,8 +9,15 @@
     tools:context=".MainActivity" >
 
     <TextView
+        android:id="@+id/label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
+        android:text="@string/label" />
+	<EditText
+	    android:id="@+id/con"
+	    android:layout_width="350px"
+	    android:layout_height="wrap_content"
+	    android:layout_marginLeft="20px"
+	    android:layout_toRightOf="@+id/label"
+	    android:inputType="number"/>
 </RelativeLayout>

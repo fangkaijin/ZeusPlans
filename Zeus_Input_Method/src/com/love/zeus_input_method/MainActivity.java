@@ -3,13 +3,17 @@ package com.love.zeus_input_method;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.widget.EditText;
 
 public class MainActivity extends Activity {
 
+	private EditText con;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		con = (EditText) findViewById(R.id.con);
+		
 	}
 
 	@Override
