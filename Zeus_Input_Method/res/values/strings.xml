@@ -4,5 +4,24 @@
     <string name="imf_name">宙斯输入法</string>
     <string name="action_settings">Settings</string>
     <string name="label">输入测试</string>
+	 <!-- Title for Latin keyboard  -->
+    <string name="ime_name">宙斯输入法</string>
 
+    <!-- Symbols that are commonly considered word separators in this language -->
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+    
+    <!-- Labels on soft keys -->
+    <string name="label_go_key">走你</string>
+    <string name="label_next_key">下一个</string>
+    <string name="label_send_key">发送</string>
+
+    <!-- Labels for subtype -->
+    <string name="label_subtype_generic">%s</string>
+    <string name="label_subtype_en_GB">英文</string>
+
+    <!-- Titles for ImePreference -->
+    <string name="settings_name">输入法设置</string>
+    <string name="language_selection_title">语言</string>
+    <string name="select_language">选择语言</string>
+    <string name="general_category">通用</string>
 </resources>

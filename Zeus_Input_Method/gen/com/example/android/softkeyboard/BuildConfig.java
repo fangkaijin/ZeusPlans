@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.love.zeus_input_method;
+package com.example.android.softkeyboard;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
