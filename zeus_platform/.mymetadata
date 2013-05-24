@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zeus_platform"
+  id="myeclipse.1369290075531"
+  context-root="/zeus_platform"
+  j2ee-spec="5.0"
+  archive="zeus_platform.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
